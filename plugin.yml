@@ -1,0 +1,9 @@
+name: RealTimeAPI
+main: Kyouka\RealTimeAPI\Main
+version: 1.0.0
+api: 5.0.0
+load: STARTUP
+author: Kyouka
+description: Updates the in-game time based on real-world time via an API.
+commands: {}
+permissions: {}
